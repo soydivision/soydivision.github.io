@@ -2,15 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://soydivision.github.io/docs/example/</loc>
+    <loc>https://soydivision.github.io/docs/articles/</loc>
   </url><url>
-    <loc>https://soydivision.github.io/docs/articles-on-books/some/with-toc/</loc>
+    <loc>https://soydivision.github.io/docs/articles/articles/some/with-toc/</loc>
   </url><url>
-    <loc>https://soydivision.github.io/docs/articles-on-books/</loc>
+    <loc>https://soydivision.github.io/docs/articles/motion-pictures/some/with-toc/</loc>
+  </url><url>
+    <loc>https://soydivision.github.io/docs/articles/articles/</loc>
+  </url><url>
+    <loc>https://soydivision.github.io/docs/articles/books/</loc>
+  </url><url>
+    <loc>https://soydivision.github.io/docs/articles/motion-pictures/</loc>
   </url><url>
     <loc>https://soydivision.github.io/docs/modes/</loc>
   </url><url>
-    <loc>https://soydivision.github.io/docs/articles-on-books/some/without-toc/</loc>
+    <loc>https://soydivision.github.io/docs/articles/articles/some/without-toc/</loc>
+  </url><url>
+    <loc>https://soydivision.github.io/docs/articles/motion-pictures/some/without-toc/</loc>
   </url><url>
     <loc>https://soydivision.github.io/docs/shortcodes/</loc>
   </url><url>
@@ -18,25 +26,59 @@
   </url><url>
     <loc>https://soydivision.github.io/docs/about-me/</loc>
   </url><url>
-    <loc>https://soydivision.github.io/posts/</loc>
+    <loc>https://soydivision.github.io/docs/articles/articles/collapsed/</loc>
   </url><url>
-    <loc>https://soydivision.github.io/docs/articles-on-books/collapsed/</loc>
+    <loc>https://soydivision.github.io/docs/articles/articles/some/</loc>
   </url><url>
-    <loc>https://soydivision.github.io/docs/articles-on-books/some/</loc>
+    <loc>https://soydivision.github.io/docs/articles/books/collapsed-by-theme/</loc>
   </url><url>
-    <loc>https://soydivision.github.io/docs/articles-on-books/biographies-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-2/</loc>
+    <loc>https://soydivision.github.io/docs/articles/motion-pictures/collapsed/</loc>
   </url><url>
-    <loc>https://soydivision.github.io/docs/articles-on-books/biographies-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-3/</loc>
+    <loc>https://soydivision.github.io/docs/articles/motion-pictures/some/</loc>
   </url><url>
-    <loc>https://soydivision.github.io/docs/articles-on-books/biographies/</loc>
+    <loc>https://soydivision.github.io/docs/articles/articles/biographies-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-2/</loc>
   </url><url>
-    <loc>https://soydivision.github.io/docs/articles-on-books/collapsed/3rd-level/4th-level/</loc>
+    <loc>https://soydivision.github.io/docs/articles/articles/biographies-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-3/</loc>
   </url><url>
-    <loc>https://soydivision.github.io/docs/articles-on-books/collapsed/3rd-level/</loc>
+    <loc>https://soydivision.github.io/docs/articles/articles/biographies/</loc>
   </url><url>
-    <loc>https://soydivision.github.io/docs/articles-on-books/philosophy/</loc>
+    <loc>https://soydivision.github.io/docs/articles/articles/collapsed/3rd-level/4th-level/</loc>
   </url><url>
-    <loc>https://soydivision.github.io/docs/example/hidden/</loc>
+    <loc>https://soydivision.github.io/docs/articles/articles/collapsed/3rd-level/</loc>
+  </url><url>
+    <loc>https://soydivision.github.io/docs/articles/articles/philosophy/</loc>
+  </url><url>
+    <loc>https://soydivision.github.io/docs/articles/books/articles/</loc>
+  </url><url>
+    <loc>https://soydivision.github.io/docs/articles/books/by-theme/3rd-level/4th-level/</loc>
+  </url><url>
+    <loc>https://soydivision.github.io/docs/articles/books/by-theme/3rd-level/</loc>
+  </url><url>
+    <loc>https://soydivision.github.io/docs/articles/books/by-theme/</loc>
+  </url><url>
+    <loc>https://soydivision.github.io/docs/articles/books/collapsed-by-theme/3rd-level/4th-level/</loc>
+  </url><url>
+    <loc>https://soydivision.github.io/docs/articles/books/collapsed-by-theme/3rd-level/</loc>
+  </url><url>
+    <loc>https://soydivision.github.io/docs/articles/books/collapsed-by-theme/biographies/</loc>
+  </url><url>
+    <loc>https://soydivision.github.io/docs/articles/books/collapsed-by-theme/philosophy/</loc>
+  </url><url>
+    <loc>https://soydivision.github.io/docs/articles/books/reviews/</loc>
+  </url><url>
+    <loc>https://soydivision.github.io/docs/articles/books/summaries/</loc>
+  </url><url>
+    <loc>https://soydivision.github.io/docs/articles/motion-pictures/biographies-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-2/</loc>
+  </url><url>
+    <loc>https://soydivision.github.io/docs/articles/motion-pictures/biographies-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-3/</loc>
+  </url><url>
+    <loc>https://soydivision.github.io/docs/articles/motion-pictures/biographies/</loc>
+  </url><url>
+    <loc>https://soydivision.github.io/docs/articles/motion-pictures/collapsed/3rd-level/4th-level/</loc>
+  </url><url>
+    <loc>https://soydivision.github.io/docs/articles/motion-pictures/collapsed/3rd-level/</loc>
+  </url><url>
+    <loc>https://soydivision.github.io/docs/articles/motion-pictures/philosophy/</loc>
   </url><url>
     <loc>https://soydivision.github.io/docs/shortcodes/buttons/</loc>
   </url><url>
